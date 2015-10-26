@@ -1,0 +1,3 @@
+[submodule "FusionEngine"]
+	path = FusionEngine
+	url = https://github.com/demiurghg/FusionEngine
